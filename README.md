@@ -9,7 +9,7 @@
 
 - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](thesaqibmumtaz@gmail.com)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](mailto:thesaqibmumtaz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 - ⚡ Fun fact: I love to code.
 
