@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Data Scientist at AKU
-- 🌱 I’m currently doing Master's in Data Science
+🔭 I’m currently working as Data Scientist at AKU
+🌱 I’m currently doing Master's in Data Science
 - 👯 I’m collaborator in Omdena Liverpool Chapter and looking for more collaboration
 - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
 - 💬 Ask me about Any thing
