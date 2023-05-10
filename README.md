@@ -35,7 +35,7 @@
                 </td>
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/images/pytorch.png" width="65px"/>
-                    <br /> Pytorch
+                    <br /> PyTorch
                 </td>
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/images/scikitlearn.png" width="65px"/>
