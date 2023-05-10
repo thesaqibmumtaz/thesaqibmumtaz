@@ -41,6 +41,10 @@
                     <img src="./assets/images/scikitlearn.png" width="65px"/>
                     <br /> Scikit Learn
                 </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/images/keras.png" width="65px"/>
+                    <br /> Keras
+                </td>
             </tr>
         </table>
     </div>
