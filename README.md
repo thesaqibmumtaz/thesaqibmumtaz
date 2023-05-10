@@ -1,17 +1,16 @@
 ### Hi there, I'm Saqib Mumtaz👋
 ## I'm a Data Scientist, AI Researcher, Machine learning Practitioner  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesaqibmumtaz/)
 
-* 🔭 I am currently working as **Data Scientist** at Aga Khan Development Network Digital Health Resource Centre
+* 🔭  Currently, I am working as a Data Scientist at Aga Khan Development Network Digital Health Resource Centre.
 
-- 🌱 I’m currently doing Master's in Data Science .
+- 🌱  I am currently pursuing a Master's degree in Data Science.
 
-- 👯 I’m collaborator in Omdena Liverpool Chapter and looking for more collaboration.
+- 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation, and other      related fields.
 
-- 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
-
+- 🥅 My goals for 2023 include exploring more research in Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation, and other related      fields
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](mailto:thesaqibmumtaz@gmail.com)
 
-- ⚡ Fun fact: I love to code.
+- ⚡ Fun fact: I have a passion for coding.
 
 
  ## ⚡  Technologies I use 
