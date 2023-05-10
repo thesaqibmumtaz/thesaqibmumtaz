@@ -45,6 +45,10 @@
                     <img src="./assets/images/keras.png" width="65px"/>
                     <br /> Keras
                 </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/images/huggingface.png" width="65px"/>
+                    <br /> Hugging Face
+                </td>
             </tr>
         </table>
     </div>
