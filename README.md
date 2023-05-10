@@ -5,7 +5,7 @@
 
 - 🌱  I am currently pursuing a Master's degree in Data Science.
 
-- 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation, and other      related fields.
+- 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
 
 - 🥅 My goals for 2023 include exploring more research in Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation, and other related      fields
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](mailto:thesaqibmumtaz@gmail.com)
