@@ -1,7 +1,7 @@
 ### Hi there, I'm Saqib Mumtaz👋
 ## I'm a Data Scientist, Machine learning Practitioner, AI Researcher   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesaqibmumtaz/)
 
-* 🔭  Currently, I am working as a Data Scientist at Aga Khan Development Network Digital Health Resource Centre.
+* 
 
 - 🌱  I am currently pursuing a Master's degree in Data Science.
 
