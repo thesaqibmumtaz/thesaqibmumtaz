@@ -1,7 +1,7 @@
 ### Hi there, I'm Saqib Mumtaz👋
 ## I'm a Data Scientist, Machine learning Practitioner, AI Researcher   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesaqibmumtaz/)
 
-* - 🌱  I am currently pursuing a Master's degree in Data Science.
+*  🌱  I am currently pursuing a Master's degree in Data Science.
 
 - 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
 
