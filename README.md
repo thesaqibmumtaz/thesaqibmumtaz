@@ -1,7 +1,9 @@
 ### Hi there, I'm Saqib Mumtaz👋
 ## I'm a Data Scientist, Machine learning Practitioner, AI Researcher   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesaqibmumtaz/)
 
-*  🌱  I am currently pursuing a Master's degree in Data Science.
+*  🌱  I hold a Master's Degree in Data Science
+  
+*  🌱  I am a Google Certified TensorFlow Developer
 
 - 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
 
@@ -45,6 +47,18 @@
                 <td align="center" width="140" height="112.43">
                     <img src="./assets/images/huggingface.png" width="65px"/>
                     <br /> Hugging Face
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/images/sf.png" width="65px"/>
+                    <br /> Snowflake
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/images/st.jpeg" width="65px"/>
+                    <br /> Streamlit
+                </td>
+                <td align="center" width="140" height="112.43">
+                    <img src="./assets/images/gradio.png" width="65px"/>
+                    <br /> Gradio
                 </td>
             </tr>
         </table>
