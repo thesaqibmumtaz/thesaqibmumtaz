@@ -3,7 +3,7 @@
 
 *  🌱  I hold a Master's Degree in Data Science
   
-*  🌱  I am a Google Certified TensorFlow Developer
+*  🌱  I am a Google Certified TensorFlow Developer  [Certificate](https://www.credential.net/3cc18e10-d2a9-4aa4-951a-d4d6dac64411#gs.6wvol8)
 
 - 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
 
