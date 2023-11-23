@@ -21,15 +21,15 @@
         <table align="center">
             <tr>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/python.jpeg" width="65px"/>
+                    <img src="./assets/images/python_br.jpeg" width="65px"/>
                     <br /> Python
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/jupyter.png" width="65px"/>
+                    <img src="./assets/images/jupyter_br.png" width="65px"/>
                     <br /> Jupyter
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/tensorflow.png" width="65px"/>
+                    <img src="./assets/images/tensorflow_br.png" width="65px"/>
                     <br /> TensorFlow
                 </td>
                 <td align="center" width="140" height="112.43">
@@ -37,11 +37,11 @@
                     <br /> PyTorch
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/scikitlearn.png" width="65px"/>
+                    <img src="./assets/images/scikitlearn_br.png" width="65px"/>
                     <br /> Scikit Learn
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/keras.png" width="65px"/>
+                    <img src="./assets/images/keras_br.png" width="65px"/>
                     <br /> Keras
                 </td>
                 <td align="center" width="140" height="112.43">
