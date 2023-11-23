@@ -29,7 +29,7 @@
                     <br /> Jupyter
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/tensorflow_br.png" width="65px"/>
+                    <img src="./assets/images/tf.png" width="65px"/>
                     <br /> TensorFlow
                 </td>
                 <td align="center" width="140" height="112.43">
@@ -53,7 +53,7 @@
                     <br /> Snowflake
                 </td>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/st.jpeg" width="65px"/>
+                    <img src="./assets/images/st_br.png" width="65px"/>
                     <br /> Streamlit
                 </td>
                 <td align="center" width="140" height="112.43">
