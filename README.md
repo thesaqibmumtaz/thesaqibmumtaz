@@ -21,7 +21,7 @@
         <table align="center">
             <tr>
                 <td align="center" width="140" height="112.43">
-                    <img src="./assets/images/python_br.jpeg" width="65px"/>
+                    <img src="./assets/images/python_br.png" width="65px"/>
                     <br /> Python
                 </td>
                 <td align="center" width="140" height="112.43">
