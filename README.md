@@ -5,11 +5,11 @@
   
 *  :fire:  I am a Google Certified TensorFlow Developer  [Certificate](https://www.credential.net/3cc18e10-d2a9-4aa4-951a-d4d6dac64411#gs.6wvol8)
 
-- 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
+- :gem: I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
 
-- :fire: My goals for 2024 include exploring more research in Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning and other related fields
+- :fireworks: My goals for 2024 include exploring more research in Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning and other related fields
   
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](mailto:thesaqibmumtaz@gmail.com)
+- :unlock: Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](mailto:thesaqibmumtaz@gmail.com)
 
 - ⚡ Fun fact: I have a passion for coding.
 
