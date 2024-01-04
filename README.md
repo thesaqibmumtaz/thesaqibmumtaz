@@ -1,13 +1,14 @@
 ### Hi there, I'm Saqib Mumtaz👋
 ## I'm a Data Scientist, Machine learning Practitioner, AI Researcher   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesaqibmumtaz/)
 
-*  :boom:  I hold a Master's Degree in Data Science
+*  :mortar_board:  I hold a Master's Degree in Data Science
   
 *  :fire:  I am a Google Certified TensorFlow Developer  [Certificate](https://www.credential.net/3cc18e10-d2a9-4aa4-951a-d4d6dac64411#gs.6wvol8)
 
 - 👯 I am open to collaborating with others on projects related to Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation.
 
-- 🥅 My goals for 2023 include exploring more research in Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning, Satellite Image Segmentation, and other related      fields
+- :fire: My goals for 2024 include exploring more research in Computer Vision, Deep Learning, NLP, Time Series Analysis, Audio Deep Learning and other related fields
+  
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thesaqibmumtaz/) or [Email](mailto:thesaqibmumtaz@gmail.com)
 
 - ⚡ Fun fact: I have a passion for coding.
