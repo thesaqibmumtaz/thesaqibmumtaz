@@ -1,7 +1,7 @@
 ### Hi there, I'm Saqib Mumtaz👋
 ## I'm a Data Scientist, Machine learning Practitioner, AI Researcher   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thesaqibmumtaz/)
 
-*  🌱  I hold a Master's Degree in Data Science
+*  :boom:  I hold a Master's Degree in Data Science
   
 *  🌱  I am a Google Certified TensorFlow Developer  [Certificate](https://www.credential.net/3cc18e10-d2a9-4aa4-951a-d4d6dac64411#gs.6wvol8)
 
